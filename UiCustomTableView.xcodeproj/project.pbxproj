@@ -15,6 +15,7 @@
 		82F43A782334BD6D00A53AD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82F43A762334BD6D00A53AD2 /* LaunchScreen.storyboard */; };
 		82F43A832334BD6E00A53AD2 /* UiCustomTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F43A822334BD6E00A53AD2 /* UiCustomTableViewTests.swift */; };
 		82F43A8E2334BD6E00A53AD2 /* UiCustomTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F43A8D2334BD6E00A53AD2 /* UiCustomTableViewUITests.swift */; };
+		82F43A9C2334D5CA00A53AD2 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F43A9B2334D5CA00A53AD2 /* MyTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		82F43A892334BD6E00A53AD2 /* UiCustomTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UiCustomTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		82F43A8D2334BD6E00A53AD2 /* UiCustomTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UiCustomTableViewUITests.swift; sourceTree = "<group>"; };
 		82F43A8F2334BD6E00A53AD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82F43A9B2334D5CA00A53AD2 /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				82F43A762334BD6D00A53AD2 /* LaunchScreen.storyboard */,
 				82F43A792334BD6D00A53AD2 /* Info.plist */,
 				82F43A712334BD6D00A53AD2 /* UiCustomTableView.xcdatamodeld */,
+				82F43A9B2334D5CA00A53AD2 /* MyTableViewController.swift */,
 			);
 			path = UiCustomTableView;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				82F43A732334BD6D00A53AD2 /* UiCustomTableView.xcdatamodeld in Sources */,
 				82F43A6D2334BD6D00A53AD2 /* ViewController.swift in Sources */,
 				82F43A6B2334BD6D00A53AD2 /* AppDelegate.swift in Sources */,
+				82F43A9C2334D5CA00A53AD2 /* MyTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
